@@ -1,0 +1,2 @@
+go to dev tools and specifically in the network tab, and in one username an http code of 403 is returned (the others return a different code, e.g. 404)
+then try the passwords

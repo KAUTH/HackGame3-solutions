@@ -1,0 +1,1 @@
+go to dev tools -> application and edit value of logged cookie to true

@@ -1,0 +1,3 @@
+Separate the encrypted key into pairs (they are in hex form), find the correlation hex to ascii (it will be a number),
+subtract it from 255 and then subtract 128 
+find the corresponding ascii (it will be a letter) 
